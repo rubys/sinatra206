@@ -1,3 +1,5 @@
+source 'https://rubygems.org'
+
 gem 'sinatra', '2.0.6'
 
 group :test do
